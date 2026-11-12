@@ -1,4 +1,4 @@
-# network# C 소켓 + epoll 온라인 오목
+# C 소켓 + epoll 온라인 오목
 
 첨부된 epoll 에코 서버와 getaddrinfo 클라이언트를 바탕으로 확장한 터미널 프로그램입니다. 웹사이트와는 별도로 실행합니다. Linux/WSL Ubuntu에서 사용하세요. Windows CMD에서 직접 빌드하는 프로그램은 아닙니다.
 
